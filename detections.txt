@@ -1,0 +1,45 @@
+Combat:
+- Aim: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T
+- Auto Block: A, B, C
+- Auto Clicker: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T
+- Criticals: A, B
+- Hitbox: A, B
+- Kill Aura: A, B, C, D, E, F, G, H, I
+- Reach: A, B
+- Velocity: A, B, C, D, E, F, G, H
+
+Movement:
+- Boat Fly: A, B
+- EntitySpeed: A
+- Elytra: A
+- Fast Climb: A
+- Flight: A, B, C, D, E
+- Jesus: A, B, C, D, E
+- Jump: A, B
+- Motion: A, B, C, D, E, F, G
+- No Slow: A, B, C
+- Speed: A, B, C
+- Sprint: A, B, C, D
+- Step: A, B, C
+- Strafe: A, B
+- Wall Climb: A
+
+Player:
+- Anti Cactus: A
+- Bad Packets: A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+- Baritone: A, B
+- Blink: A
+- Crash: A, B, C
+- Fast Break: A
+- Fast Place: A
+- Fast Use: A
+- Ground Spoof: A, B, C
+- Hacked Client: A
+- Improbable: A, B, C, D
+- Interact: A, B, C, D, E
+- Invalid: A, B, C, D, E, F
+- Inventory: A, B
+- Ping Spoof: A, B, C
+- Scaffold: A, B, C, D, E, F, G, H, I, J, K, L
+- Timer: A, B
+- Tower: A
